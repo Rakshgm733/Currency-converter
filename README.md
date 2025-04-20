@@ -1,4 +1,5 @@
 # 💱 Currency Converter
+This game runs on your terminal — clone this repo and compile the code to play!
 
 A terminal-based currency converter written in C++.
 
